@@ -46,7 +46,7 @@ RPi.GPIO==0.7.0
 six==1.14.0
 SQLAlchemy==1.3.16
 sysv-ipc==1.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 wrapt==1.11.2
 WTForms==2.2.1
